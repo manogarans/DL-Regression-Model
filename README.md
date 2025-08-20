@@ -137,13 +137,13 @@ plt.show()
 ```
 
 ### Dataset Information
-![Uploading Screenshot 2025-08-20 211746.png…]()
+<img width="775" height="584" alt="Screenshot 2025-08-20 211746" src="https://github.com/user-attachments/assets/a42b3acf-54f0-43d0-b0ff-ef42c837671d" />
 
 ### OUTPUT
-![Uploading Screenshot 2025-08-20 211757.png…]()
+<img width="759" height="549" alt="Screenshot 2025-08-20 211757" src="https://github.com/user-attachments/assets/ba69ae96-44b1-48ef-bbbf-311eb8ecf366" />
 
 Best Fit line plot
-![Uploading Screenshot 2025-08-20 211810.png…]()
+<img width="737" height="584" alt="Screenshot 2025-08-20 211810" src="https://github.com/user-attachments/assets/8e4aee51-1526-410e-b30a-198115f18a19" />
 
 ### New Sample Data Prediction
 <img width="467" height="84" alt="Screenshot 2025-08-20 211825" src="https://github.com/user-attachments/assets/256bbc2f-4f1a-4994-bf59-ee25afbe27d1" />
